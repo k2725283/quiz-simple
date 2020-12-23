@@ -7,6 +7,14 @@
  */
 const getSumOfTriple = (arr, start, end) => {
   // 请实现……
+  let result = 0
+  for(let i =0;i<arr.length;i++){
+    if(arr[i]%3===0){
+        result += arr[i]
+    }
+}
+  return result
+  }
 };
 
 // * ---------------- 实现的效果：
