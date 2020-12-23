@@ -5,6 +5,22 @@
  */
 const getHostName = (url) => {
   // 请实现……
+  export const GetHost = (url) => {
+    url = url.match(/https?:\/\/([^/]+)\//i);
+    let domain = '';
+    if (url && url[1]) {
+        domain = url[1];
+    }
+    return domain;
+};
+  export const GetSubUrl = (url) => {
+    url = url.match(/https?:\/\/.*?(\/[^]+)/i);
+    let domain = '';
+    if (url && url[1]) {
+        domain = url[1];
+    }
+    return domain;
+};
 };
 
 // * ---------------- 实现的效果：
