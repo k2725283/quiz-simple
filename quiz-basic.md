@@ -12,32 +12,32 @@
 | 名词           | 是什么               |
 | :------------- | :------------------- |
 | Node.js        | 是 JS 的一个 runtime |
-| npm            | 是 ……                |
-| npx            | 是 ……                |
-| nvm            | 是 ……                |
-| nrm            | 是 ……                |
-| yarn           | 是 ……                |
-| React          | 是 ……                |
-| Vue            | 是 ……                |
-| Flux           | 是 ……                |
-| Mobx           | 是 ……                |
-| MVVM           | 是 ……                |
-| TDD            | 是 ……                |
-| Jest/Mocha     | 是 ……                |
-| node_modules   | 是 ……                |
-| package.json   | 是 ……                |
-| ECMAScript     | 是 ……                |
-| Electron       | 是 ……                |
-| Babel          | 是 ……                |
-| Webpack        | 是 ……                |
-| SSR            | 是 ……                |
-| BFF            | 是 ……                |
-| Serverless     | 是 ……                |
-| PWA            | 是 ……                |
-| V8             | 是 ……                |
-| libuv          | 是 ……                |
-| Stack Overflow | 是 ……                |
-| Deno           | 是 ……                |
+| npm            | 是 nodejs的一个打包管理工具                |
+| npx            | 是 执行Node软件包的工具                |
+| nvm            | 是 nodejs的版本管理工具                |
+| nrm            | 是 是一个 npm 源管理器                |
+| yarn           | 是 avascript 包管理器                |
+| React          | 是 用于构建用户界面的 JS 库                |
+| Vue            | 是 一套构建用户界面的渐进式框架                |
+| Flux           | 是 用户建立客户端Web应用的前端架构                |
+| Mobx           | 是 JS状态管理框架                |
+| MVVM           | 是 MVC模式的升级版，把Model和View关联起来的就是ViewModel              |
+| TDD            | 是 测试驱动开发                |
+| Jest/Mocha     | 是 实现 JavaScript 单元测试支持                |
+| node_modules   | 是 是安装node后用来存放用包管理工具下载安装的包的文件夹                |
+| package.json   | 是 当我们创建了一个nodejs项目，意味着创建了一个模块，这个模块的描述文件，被称为.jason                |
+| ECMAScript     | 是 一种由Ecma国际通过ECMA-262标准化的脚本程序设计语言。                |
+| Electron       | 是 一个使用 JavaScript, HTML 和 CSS 等 Web 技术创建原生程序的框架                |
+| Babel          | 是 是一个 JavaScript 编译器                |
+| Webpack        | 是 打包工具                |
+| SSR            | 是 服务端渲染      更利于SEO           |
+| BFF            | 是 微服务架构中的重要概念                |
+| Serverless     | 是 无服务器架构                |
+| PWA            | 是 一种理念，使用多种技术来增强web app的功能                |
+| V8             | 是 Google 发布的开源 JavaScript 引擎                |
+| libuv          | 是 Node 的新跨平台抽象层                |
+| Stack Overflow | 是 解决开发中遇到问题的网站                |
+| Deno           | 是 nodejs替代品                |
 
 ## Q2
 
@@ -49,4 +49,4 @@
 > - Youtube 的几个频道: Fireship、Traversy Media、DesignCourse …
 > - 掘金、知乎
 
-答：
+答：知乎，B站，CSDN
